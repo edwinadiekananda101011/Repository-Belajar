@@ -1,0 +1,6 @@
+Repository
+
+- Belajar framework codeigniter PHP
+- Belajar penggunaan SQL database
+- Belajar aplikasi desktop
+- Belajar bahasa javascript

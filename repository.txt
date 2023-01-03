@@ -4,3 +4,4 @@ Repository
 - Belajar penggunaan SQL database
 - Belajar aplikasi desktop
 - Belajar bahasa javascript
+- Belajar framework javascript

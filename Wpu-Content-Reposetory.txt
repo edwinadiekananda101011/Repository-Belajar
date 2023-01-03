@@ -10,3 +10,4 @@ RENCANA KONTEN WPU
 - Interview
 - Vlog
 - Python
+- Menambahkan react js
